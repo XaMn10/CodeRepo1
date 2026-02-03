@@ -1,0 +1,2 @@
+hi everyone,
+this is my first repository created using GIT, this repo includes a php file in which i typed a simple code that echos "hello guys", i sincerly enjoyed manipulating GIT, if you are asking where i am learning git, just take a look at codédex website, it offers numerous courses where you can learn stuffs in a very funny way, love y'all.
